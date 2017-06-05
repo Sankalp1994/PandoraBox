@@ -1,2 +1,2 @@
 This is Text file 2 diff
-Branching Testing
+Branching Testing 2
